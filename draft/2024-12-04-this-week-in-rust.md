@@ -40,6 +40,7 @@ and just ask the editors to select the category.
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
+* [Developing a Zellij Rust Plugin (screencast/tutorial)](https://zellij.dev/tutorials/developing-a-rust-plugin/)
 
 ### Research
 
